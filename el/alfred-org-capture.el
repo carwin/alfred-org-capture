@@ -45,4 +45,5 @@
   (select-frame-by-name "remember")
   (org-capture))
 
+(provide 'alfred-org-capture)
 ;;; alfred-org-capture.el ends here
